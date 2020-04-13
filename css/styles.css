@@ -31,14 +31,11 @@ body {
   margin: 0;
   padding: 0;
   padding-top: 72px;
+  padding-left: 120px;
 }
 
 .navigation_menu li:not(:last-child) {
   margin-right: 120px;
-}
-
-.navigation_menu li:first-child {
-  padding-left: 120px;
 }
 
 .navigation_menu a:hover,
